@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Exrelativity
+- 👋 Hi, I’m Exrelativity
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning New stuffs
 - 💞️ I’m looking to collaborate on new projects
