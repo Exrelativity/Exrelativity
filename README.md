@@ -2,8 +2,8 @@
 
 
 <img align='right' src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="230">
-<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="30"></br>Software Enginneer
-<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> 
+<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"></br>Software Enginneer
+<img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -25,8 +25,6 @@ const chi = {
 }
 ```
 
-<img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="60"> <em><b> I am available for your service </b>   
-
-  so if you want to say <b>Hi, I'll be happy to meet you more!</b> Email: ukweheverest@gmail.com, WhatsApp: +2348109502584</em>
+<img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="60"> <em><b> Available at your service </b> So if you want to say <b> Hi, I'll be happy to meet you more!</b> Email: ukweheverest@gmail.com, WhatsApp: +2348109502584</em>
 
 ---
