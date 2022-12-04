@@ -2,7 +2,7 @@
 
 
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
-<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"></br>Software Enginneer <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="30"></em></p>
+<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"></br>Software Enginneer <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="30"></em></p>
 
 
 
@@ -11,10 +11,10 @@
 
 
 
-### <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50" height=50> A little more about me...  
 
 ```javascript
-const chi = {
+const eve = {
   pronouns: ["He", "His", "His"],
   code: [Javascript, Typescript, HTML, CSS, PHP, Python],
   tools: [Laravel, Django, React, Redux, Node, Storybook, Styled-Components, Material UI, Travis, Docker],
