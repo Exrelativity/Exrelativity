@@ -1,9 +1,9 @@
 <h2> Hi, I'm Ukweh Chima, Everest! <img src="https://media.giphy.com/media/l3mZjqmhfmk4MpMLC/giphy.gif" width="50"></h2>
 
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Enginneer
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="230">
+<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="30"></br>Software Enginneer
+<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -25,7 +25,7 @@ const chi = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I am available for your service </b>   
+<img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="60"> <em><b> I am available for your service </b>   
 
   so if you want to say <b>Hi, I'll be happy to meet you more!</b> Email: ukweheverest@gmail.com, WhatsApp: +2348109502584</em>
 
