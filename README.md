@@ -2,7 +2,7 @@
 
 
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300">
-<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="25"></br>Full Stack Developer <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"></em></p>
+<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="25"></br>Full Stack Developer and Freelancer<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"></em></p>
 
 
 
