@@ -16,8 +16,8 @@
 ```javascript
 const eve = {
   pronouns: ["He", "His", "His"],
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python],
-  tools: [Laravel, Codeigniter, Django, Flask, Nestjs, Nextjs, Expressjs, React, Redux, Node, Storybook, Styled-Components, Material UI, Travis CI, Docker],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Python, ...loading],
+  tools: [Laravel, Codeigniter, Django, Flask, Nestjs, Nextjs, Expressjs, React, Redux, Node, Storybook, Styled-Components, Material UI, Travis CI, Docker, ...loading],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
