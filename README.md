@@ -11,7 +11,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100" height="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100"> A little more about me...  
 
 ```javascript
 const eve = {
