@@ -1,8 +1,8 @@
 <h2> Hi, I'm Ukweh Chima, Everest! <img src="https://media.giphy.com/media/l3mZjqmhfmk4MpMLC/giphy.gif" width="50"></h2>
 
 
-<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
-<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"></br>Software Enginneer <img src="https://media.giphy.com/media/Ss0EiG29MulxjBXKVu/giphy.gif" width="30"></em></p>
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
+<p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="100"></br>Software Enginneer <img src="https://media.giphy.com/media/Ss0EiG29MulxjBXKVu/giphy.gif" width="100"></em></p>
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" height="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100" height="50"> A little more about me...  
 
 ```javascript
 const eve = {
