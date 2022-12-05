@@ -22,7 +22,10 @@ const eve = {
 }
 ```
 
-<img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="60"> <em><b> Available at your service </b> So if you want to say <b> Hi, I'll be happy to meet you more!</b>   
-Email: ukweheverest@gmail.com, WhatsApp: +2348109502584</em>
+<img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="60"> <em><b> Available at your service, </b> So if you want to say, Hi, I'll be happy to meet you more!   
+<b>
+ Email: ukweheverest@gmail.com,  
+ WhatsApp: +2348109502584
+</b></em>
 
 ---
