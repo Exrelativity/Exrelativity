@@ -11,7 +11,7 @@
 
 
 
-### <img src="https://giphy.com/clips/originals-hacker-desi-hackette-OYZOPheyZZ3PTD4tig" width="50" height=50> A little more about me...  
+### <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50" height=50> A little more about me...  
 
 ```javascript
 const eve = {
