@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ukweh Chima, Everest! by name... &exrelativity@github.com <img src="https://media.giphy.com/media/l3mZjqmhfmk4MpMLC/giphy.gif" width="50"></h2>
 
 
-<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300">
+<img align='right' src="coding-kira.gif" width="300">
 <p><em>Programing Tutor at <a href="http://www.elacademy.org.ng"> El-Academy </a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="25"></br>Full Stack Developer and Freelancer<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"></em></p>
 
 
