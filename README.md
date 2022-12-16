@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ukweh Chima, Everest! by name... &exrelativity@github.com <img src="https://media.giphy.com/media/l3mZjqmhfmk4MpMLC/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ukweh Chima, Everest! by name</h2>
 
 
 <img align='right' src="coding-kira.gif" width="300">
