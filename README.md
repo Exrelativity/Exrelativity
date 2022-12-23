@@ -25,7 +25,7 @@ const eve = {
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=exrelativity.visitor-badge) 
 
 
-<img align='right' src="coding-kira.gif" width="38%">
+<img align='right' src="coding-kira.gif" width="38%" height="190px">
 
 
 [![Exrelativity's github stats](https://github-readme-stats.vercel.app/api?username=exrelativity&show_icons=true&theme=radical)](https://github.com/exrelativity/github-readme-stats)
