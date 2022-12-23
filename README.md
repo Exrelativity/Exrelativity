@@ -22,6 +22,11 @@ const eve = {
 }
 ```
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=exrelativity.visitor-badge)
+
+[![Exrelativity's github stats](https://github-readme-stats.vercel.app/api?username=exrelativity&show_icons=true&theme=radical)](https://github.com/exrelativity/github-readme-stats)
+
+
 <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="60"> <em><b> Available at your service, </b> So if you want to say, Hi, I'll be happy to meet you more!   
 <b> Email: </b> ukweheverest@gmail.com,  
 <b>WhatsApp: </b> +2348109502584
