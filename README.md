@@ -28,8 +28,6 @@ const eve = {
 <img align='right' src="coding-kira.gif" width="38%" height="190px">
 
 
-[![Exrelativity's github stats](https://github-readme-stats.vercel.app/api?username=exrelativity&show_icons=true&theme=radical)](https://github.com/exrelativity/github-readme-stats)
-
 <em><b> Available at your service, </b> So if you want to say, Hi, I'll be happy to meet you more!   
 <b> Email: </b> ukweheverest@gmail.com,  
 <b>WhatsApp: </b> +2348109502584
