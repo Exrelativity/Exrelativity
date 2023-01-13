@@ -14,7 +14,7 @@
 ### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100"> A little more about me...  
 
 ```javascript
-const eve = {
+const UkwehChimaEverest = {
   pronouns: ["He", "His", "His"],
   code: [Javascript, Typescript, HTML, CSS, PHP, Python,C, C++, ...loading],
   tools: [Laravel, Codeigniter, Django, Flask, Nestjs, Nextjs, Expressjs, React, Redux, Node, Storybook, Styled-Components, Material UI, Travis CI, Docker, ...loading],
@@ -24,8 +24,6 @@ const eve = {
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=exrelativity.visitor-badge) 
 
-
-<img align='right' src="coding-kira.gif" width="38%" height="190px">
 
 
 <em><b> Available at your service, </b> So if you want to say, Hi, I'll be happy to meet you more!   
