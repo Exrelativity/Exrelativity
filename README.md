@@ -16,9 +16,10 @@
 ```javascript
 const UkwehChimaEverest = {
   pronouns: ["He", "His", "His"],
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python,C, C++, ...loading],
-  tools: [Laravel, Codeigniter, Django, Flask, Nestjs, Nextjs, Expressjs, React, Redux, Node, Storybook, Styled-Components, Material UI, Travis CI, Docker, ...loading],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "Python","C", "C++", "Java", "Go", ...etc],
+  tools: ["Laravel", "Codeigniter", "Django", "Flask", "Nestjs", "Nextjs", "Expressjs", "React", "Redux", "Node", "Storybook", "Styled-Components", "Material UI", "Travis CI", "Docker", ...etc],
+  architecture: ["Micro front-end","Cloud computing","Object-oriented","Service-based","Component-based development","Unified Modeling Language","Single-page application","Microservices", "Event-driven", ...etc],
+  os:["windows", "linux", ...etc]
 }
 ```
 
