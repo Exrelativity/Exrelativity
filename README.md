@@ -2,8 +2,8 @@
 
 
 
-<p><em></br>Full Stack Developer and Freelancer<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"></em></p>
-<p>Formally a programing tutor at El Academy</p>
+<p></br><em>Full Stack Developer and Freelancer<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"></em></p>
+<p>formally a programing tutor at El Academy</p>
 
 
 
