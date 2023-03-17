@@ -24,7 +24,6 @@ const UkwehChimaEverest = {
 }
 ```
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=exrelativity.visitor-badge) 
 
 
 
