@@ -3,7 +3,7 @@
 
 
 <p></br><Strong>Full Stack Software Developer and Freelancer<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"></Strong></p>
-<p>formally a programing tutor at El Academy</p>
+<p>Formally a Programing Tutor at El Academy</p>
 
 
 
