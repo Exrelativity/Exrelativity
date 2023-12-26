@@ -1,10 +1,10 @@
 # <h2> Hi, I'm Ukweh Chima, Everest! by name</h2> 
 
 <p><Strong>Full Stack Software Developer and Freelancer</Strong><br>Formally a Programing Tutor at El Academy</p>  
-<br><br>  
+<br>
 
 ##  A little more ...  
-[My Portfolio](https://exrelativity.github.io)
+[My Portfolio](https://exrelativity.github.io)  
 ```javascript
 const UkwehChimaEverest  = ({etc} = {}) => {
   const pronouns = ["He", "His", "Him", ...etc];
