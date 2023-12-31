@@ -6,7 +6,7 @@
 ##  A little more ...  
 [My Portfolio](https://exrelativity.github.io)  
 ```javascript
-const UkwehChimaEverest  = ({etc} = {}) => {
+const UkwehChimaEverest  = ({etc}) => {
   const pronouns = ["He", "His", "Him", ...etc];
   const languages =  ["Javascript", "Typescript", "HTML", "CSS", "PHP", "Python","C", "C++", "Java", "Rust","Go", ...etc];
   const frameworks_and_stacks = ["Laravel", "Codeigniter", "Django", "Flask", "Nestjs", "Nextjs", "Expressjs", "React", "React Native", "Redux", "Graphql","Appollo Client", "Node", "Storybook", "Styled-Components", "Material UI", "Travis CI", "Docker", "Spring boot", "Tailwind Css", ...etc];
