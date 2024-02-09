@@ -1,6 +1,6 @@
 # <h2> Hi, I'm Ukweh Chima, Everest! by name</h2> 
 
-<p><Strong>Full Stack Software Developer and Freelancer</Strong><br>Formally a Programing Tutor at El Academy</p>  
+<p><Strong>Full Stack Software Developer, Security Analyst, Q/A Tester and Freelancer</Strong><br>Formally a Backend Developer at Amabills Technology, Prior to That I was a Programing Tutor at El Academy</p>  
 <br>
 
 ##  A little more ...  
