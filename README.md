@@ -1,6 +1,6 @@
 # <h2> Hi, I'm Ukweh Chima, Everest! by name</h2> 
 
-<p><Strong>Full Stack Software Developer, Security Analyst, Q/A Tester and Freelancer</Strong><br>Formally a Backend Developer at Amabills Technology, Prior to That I was a Programing Tutor at El Academy</p>  
+<p><Strong>Full Stack Software Developer, Security Analyst, Q/A Tester and Freelancer</Strong><br> Formally a Backend Developer at <a href="https://amabillstechnologies.com/">Amabills Technology</a> <br>Prior to That He was a Programing Tutor at <a href="https://www.elacademy.org.ng">El Academy Organisation</a> etc. </p>  
 <br>
 
 ##  A little more ...  
@@ -17,6 +17,6 @@ const UkwehChimaEverest  = ({etc}) => {
 ```  
 <br>
 
-## Contact Me  
+## Contact  
 <p> Email: ukweheverest@gmail.com <p>  
 
