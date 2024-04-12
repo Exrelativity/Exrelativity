@@ -10,7 +10,7 @@ const UkwehChimaEverest  = ({etc}) => {
   const pronouns = ["He", "His", "Him", ...etc];
   const languages =  ["Javascript", "Typescript", "HTML", "CSS", "PHP", "Python","C", "C++", "Java", "Rust","Go", ...etc];
   const frameworks_and_stacks = ["3D Developement & Animation","Machine Learning /Artificial Intelligence",  "React", "React Native", "Redux", "Django", "Flask", "Nestjs", "Expressjs", "Laravel", "Codeigniter", "Nextjs",  "Graphql","Appollo Client", "Node", "Storybook", "Styled-Components", "Material UI", "Travis CI", "Docker", "Spring boot", "Tailwind Css", "Babylon js", "three js"  ...etc];
-  const architecture = ["Frontend", "Backend", "Rest Api", "Graphql", SSE, "gRPC", "Cloud Computing", "Object Oriented Programing","Service-based","Component-Based Development","Unified Modeling Language","Single-page Application","Microservices", "Event-driven", ...etc];
+  const architecture = ["Frontend", "Backend", "Rest Api", "Graphql", "SSE", "gRPC", "Cloud Computing", "Object Oriented Programing","Service-based","Component-Based Development","Unified Modeling Language","Single-page Application","Microservices", "Event-driven", ...etc];
   const os = ["Windows", "Linux", "Mac", ...etc];
   return {pronouns,languages,frameworks_and_stacks,architecture, os};
 }
