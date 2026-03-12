@@ -74,7 +74,7 @@ Concept → Architecture → Production → Global Scale
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=relativity-codes&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=relativitycodes&theme=tokyonight"/>
 
 </p>
 
